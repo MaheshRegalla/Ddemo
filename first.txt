@@ -1,2 +1,2 @@
-public clss txt{
+public clss first{
 }
