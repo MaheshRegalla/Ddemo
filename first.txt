@@ -1,2 +1,5 @@
-public clss first{
+public class first{
+
+fist commit
+
 }
